@@ -25,7 +25,7 @@
     "react-modal": "^3.8.1",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-slick": "^0.24.0",
     "react-swift-slider": "^5.0.0",
     "sweetalert2": "^8.11.7",
